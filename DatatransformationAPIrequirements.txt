@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pandas
+pydantic
+python-dotenv  # Optional: For environment variable management
